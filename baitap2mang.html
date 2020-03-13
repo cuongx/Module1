@@ -1,0 +1,19 @@
+<body>
+    <script>
+         let n = [];
+        n[0] = Math.floor(Math.random() * 11 + 40);
+        for (let i = 1; i < 10; i++) {
+            let thu;
+            do {
+                thu = 0;
+                n[i] = Math.floor(Math.random() * 11 + 40);
+                for (let j = 0; j < i; j++) {
+                    if (n[i] == n[j]) { thu++ }
+                }
+            } while (thu > 0)
+        }
+        for (let i = 0; i < 10; i++) {
+            alert(n[i] + " ; ")
+        }
+    </script>
+</body>
