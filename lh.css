@@ -1,0 +1,26 @@
+.carousel-item {
+    height: 65vh;
+    min-height: 350px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  .map-container-5{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+    width: 250px;
+    padding-right: 20%;
+    }
+    .map-container-5 iframe{
+    right: 60px;
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position: absolute;
+    
+    }

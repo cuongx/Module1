@@ -1,0 +1,189 @@
+{
+  "Students": [
+    {
+      "fullname": "GIÀY ĐÁ BÓNG KAMITO QH19 PREMIUM TF MÀU Đỏ",
+      "avatar": "image/kamitocam.jpg",
+      "dob": "23",
+      "id": 26
+    },
+    {
+      "fullname": "GIÀY SÂN CỎ NHÂN TẠO AKKA POWER 1 ĐINH TF MÀU XANH BIỂN, NÕN CHUỐI ",
+      "avatar": "image/akka.jpg",
+      "dob": "9",
+      "id": 27
+    },
+    {
+      "fullname": "GIÀY AKKA SPEED 1 CHÍNH HÃNG ĐINH TF MÀU BẠC CAM",
+      "avatar": "image/giayaskaq.jpg",
+      "dob": "13",
+      "id": 28
+    },
+    {
+      "fullname": "GIÀY ĐÁ BÓNG PAN VIGOR 9 TF TRẮNG",
+      "avatar": "image/vigoo.jpg",
+      "dob": "24",
+      "id": 29
+    },
+    {
+      "fullname": "GIÀY ĐÁ BÓNG MITRE 181229 XANH LƠ/TRẮNG",
+      "avatar": "image/giaymitre.jpg",
+      "dob": "32",
+      "id": 30
+    },
+    {
+      "fullname": "Giày đá bóng Mizuno Rebula 3 Select AS",
+      "avatar": "image/mizuno.jpg",
+      "dob": "40",
+      "id": 31
+    },
+    {
+      "fullname": " Nike Dream Speed Kids Mercurial Vapor XIII Club TF - Blue Void/Volt/White",
+      "avatar": "images/nikedre.webp",
+      "dob": "50",
+      "id": 32
+    },
+    {
+      "fullname": "Nike Kids Phantom Venom Club TF EU 34",
+      "avatar": "images/nikecam.webp",
+      "dob": "23",
+      "id": 33
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "xuanc25@gmail.com",
+      "password": "123456789"
+    }
+  ],
+  "halama": [
+    {
+      "fullnamee": "GIÀY ĐÁ BÓNG PAN VIGOR 9 TF TRẮNG",
+      "avatarr": "image/vigoo.jpg",
+      "dobb": "20",
+      "id": 1
+    },
+    {
+      "fullnamee": "Nike Merucal Vapor XIII Neymar TF.",
+      "avatarr": "image/nikewhite.jpg",
+      "dobb": "43",
+      "id": 8
+    },
+    {
+      "fullnamee": "Adidas Predator 19.2 TF - Đỏ / Xanh / Bạc Ánh Kim",
+      "avatarr": "image/adidas1.jpg",
+      "dobb": "34",
+      "id": 12
+    },
+    {
+      "fullnamee": "Nike Mercurial Superfly 7 Elite TF Dream Speed 2 - LeMon Aurora Green",
+      "avatarr": "images/nikeo.webp",
+      "dobb": "173",
+      "id": 16
+    },
+    {
+      "fullnamee": "Giày Đá Bóng Zocker ZTF 18VT",
+      "avatarr": "image/zocker.jpg",
+      "dobb": "30",
+      "id": 17
+    },
+    {
+      "fullnamee": "Giày Đá Bóng Jogarbola 002",
+      "avatarr": "images/jogabola1.jpg",
+      "dobb": "28",
+      "id": 18
+    }
+  ],
+  "holomo": [
+    {
+      "fullname": "Áo Bóng Đá CLB Chelsea đen mùa giải 2019-2020",
+      "avatar": "image/abd1.jpg",
+      "dob": "7",
+      "id": 1
+    },
+    {
+      "fullname": "Áo Bóng Đá Juventus đen thiên hà 2020",
+      "avatar": "image/abd2.jpg",
+      "dob": "7",
+      "id": 2
+    },
+    {
+      "fullname": "Áo Bóng Đá Manchester United đỏ sân nhà 2019-2020 ",
+      "avatar": "image/abd3.jpg",
+      "dob": "7",
+      "id": 4
+    },
+    {
+      "fullname": "Áo bóng đá dài tay Liverpool đỏ sân nhà 2019-2020",
+      "avatar": "image/abđ1.jpg",
+      "dob": "8",
+      "id": 5
+    },
+    {
+      "fullname": "Áo Bóng Đá Real Madrid sân khách dài tay mùa giải 2019-2020",
+      "avatar": "image/abđ2.jpg",
+      "dob": "8",
+      "id": 6
+    },
+    {
+      "fullname": "Áo Bóng Đá Juventus sọc đen trắng sân nhà dài tay 2019-2020",
+      "avatar": "image/abđ6.jpg",
+      "dob": "8",
+      "id": 7
+    }
+  ],
+  "heleme": [
+    {
+      "fullname": "Bình Xịt Lạnh STARBALM-XB",
+      "avatar": "image/pk1.png",
+      "dob": "10",
+      "id": 1
+    },
+    {
+      "fullname": "ÁO BÓ KEEPFLY BODY CHÍNH HÃNG ĐỎ",
+      "avatar": "image/pkk2.jpg",
+      "dob": "8",
+      "id": 6
+    },
+    {
+      "fullname": "Găng Tay Thủ Môn H3 Triplay H Galaxy Đỏ",
+      "avatar": "image/pk5.jpg",
+      "dob": "23",
+      "id": 8
+    },
+    {
+      "fullname": "Cặp Đựng đồ thể thao wika Đỏ",
+      "avatar": "image/pk4.jpg",
+      "dob": "9",
+      "id": 10
+    },
+    {
+      "fullname": "Quả bóng Kamito  Subasa chính hãng Size5",
+      "avatar": "image/pk3.jpg",
+      "dob": "30",
+      "id": 11
+    },
+    {
+      "fullname": "Quần  Bó Dài Pro Combat Đen",
+      "avatar": "image/pk6.jpg",
+      "dob": "8",
+      "id": 12
+    }
+  ],
+  "spmua": [
+    {
+      "ten": " Nike Dream Speed Kids Mercurial Vapor XIII Club TF - Blue Void/Volt/White",
+      "avatar": "images/nikedre.webp",
+      "dob": "50",
+      "id": 1
+    }
+  ],
+  "spmuon": [
+    {
+      "name": "Nike Merucal Vapor XIII Neymar TF.",
+      "avatarr": "image/nikewhite.jpg",
+      "dobb": "43",
+      "id": 1
+    }
+  ]
+}

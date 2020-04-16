@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Login V12</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+<!--===============================================================================================-->	
+	<link rel="icon" type="image/png" href="images/icons/favicon.ico"/>
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="vendor/bootstrap/css/bootstrap.min.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="fonts/Linearicons-Free-v1.0.0/icon-font.min.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="vendor/animate/animate.css">
+<!--===============================================================================================-->	
+	<link rel="stylesheet" type="text/css" href="vendor/css-hamburgers/hamburgers.min.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="vendor/select2/select2.min.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="css/util.css">
+	<link rel="stylesheet" type="text/css" href="css/main.css">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
+	!-- Google Fonts -->
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap">
+	<!-- Bootstrap core CSS -->
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet">
+	<!-- Material Design Bootstrap -->
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.15.0/css/mdb.min.css" rel="stylesheet">
+	<!--===============================================================================================-->
+
+</head>
+<body>
+
+
+	<nav class="navbar navbar-expand-lg navbar-dark bg-secondary fixed-top">
+		<div class="container">
+			<img src="image/tx.png"  width="70" height="50">
+		  <a class="navbar-brand" href="#">Welcome To Our Store</a>
+		  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive"
+		   aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+				<span class="navbar-toggler-icon"></span>
+			  </button>
+		  <div class="collapse navbar-collapse" id="navbarResponsive">
+			<ul class="navbar-nav ml-auto">
+			  <li class="nav-item ">
+				<a class="nav-link" href="index.html">Home
+					  <span class="sr-only">(current)</span>
+					</a>
+			  </li>
+			  
+			  <li class="nav-item">
+				<a class="nav-link" href="dssp.html">Services</a>
+			  </li>
+			  <li class="nav-item">
+				<a class="nav-link" href="lienhe.html">Contact</a>
+			  </li>
+			  <li class="nav-item ">
+				<a class="nav-link" href="tintuc.html">News</a>
+			  </li>
+			  <li class="nav-item active">
+				<a class="nav-link" href="aindex.html">Login</a>
+			  </li>
+			</ul>
+		  </div>
+		</div>
+	  </nav>
+
+
+
+	
+	<div class="limiter">
+		<div class="container-login100" style="background-image: url('images/img-01.jpg');">
+			<div class="wrap-login100 p-t-190 p-b-30">
+				<form class="login100-form validate-form">
+					<div class="login100-form-avatar">
+						<img src="image/iconnm.png" alt="AVATAR">
+					</div>
+
+					<span class="login100-form-title p-t-20 p-b-45">
+						Chào mừng bạn đến với Shop 
+					</span>
+					<div class="alert alert-danger alert-dismissible d-none" id="array">
+						<button type="button" class="close" data-dismiss="alert">&times;</button>
+						Sorry you entered an error.
+					  </div>
+
+					<div class="wrap-input100 validate-input m-b-10" data-validate = "Valid email is required: ax@abc.xyz">
+						<input class="input100" type="text" name="email" id="email" placeholder="Username">
+						<span class="focus-input100"></span>
+						<span class="symbol-input100">
+							<i class="fa fa-user"></i>
+						</span>
+					</div>
+
+					<div class="wrap-input100 validate-input m-b-10" data-validate = "Password is required">
+						<input class="input100" type="password" name="pass" id="pass" placeholder="Password">
+						<span class="focus-input100"></span>
+						<span class="symbol-input100">
+							<i class="fa fa-lock"></i>
+						</span>
+					</div>
+                
+					<div class="container-login100-form-btn p-t-10">
+						<a href="javascript:;" class="login100-form-btn" onclick='login.check()'>Login</a>
+					</div>			
+				</form>
+			</div>
+		</div>
+	</div>
+	
+	
+
+	<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<!--===============================================================================================-->	
+	
+<!--===============================================================================================-->
+	<script src="vendor/bootstrap/js/popper.js"></script>
+	<script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+<!--===============================================================================================-->
+	<script src="vendor/select2/select2.min.js"></script>
+<!--===============================================================================================-->
+	<script src="js/main.js"></script>	
+	<script src="login.js"></script>
+
+</body>
+</html>
